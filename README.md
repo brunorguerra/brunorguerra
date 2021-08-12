@@ -1,4 +1,4 @@
-- 👋 Ola, sou <a href="https://www.instagram.com/bruno.bernardees/" target="_blank">@bruno.bernardees</a><b>;
+- 👋 Ola, sou <a href="https://www.instagram.com/bruno.bernardees/" target="_blank">@bruno.bernardees</a>;
 - 👀 Estou se especializando em <strong>Desenvolvimento Web</strong>;
 - 🌱 Atualmente estou aprendendo <code>JAVASCRIPT</code>
 - 🔍 Estou procurando colaborar em Projetos Dinâmicos;
