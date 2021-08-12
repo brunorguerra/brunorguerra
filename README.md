@@ -11,5 +11,8 @@
 - 🚀 Meus Objetivos: <strong>Aprender VueJs, NodeJs, React</strong>
 - 📫 Entre em contato comigo, por Email brunoguerracontact@gmail.com.
 
+<img src="assets/iconHtml.svg" align="left" width="35px" height="35px"/>
+<img src="assets/iconCss.svg" align="left" width="35px" height="35px"/>
+<img src="assets/iconJS.svg" align="left" width="35px" height="35px"/>
 
 
