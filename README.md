@@ -5,10 +5,10 @@
 <a href="https://www.linkedin.com/in/bruno-guerra-b657a0216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/bruno.bernardees/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </br></br>
-- 💻 I am specializing in Web Development
-- 🌱 I am currently learning: HTML, CSS, JavaScript
+- 💻 I am specializing in <strong>Web Development</strong>
+- 🌱 I am currently learning: <strong>HTML, CSS, JavaScript</strong>
 - 🔎 I'm looking to collaborate on Dynamic Projects
-- 🚀 My Goals: Learn VueJs, NodeJs, React
+- 🚀 My Goals: <strong>Learn VueJs, NodeJs, React</strong>
 - 📫 Contact me by Email brunoguerracontact@gmail.com.
 
 <p>
