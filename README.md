@@ -8,7 +8,7 @@
 - 💻 I am specializing in <strong>Web Development</strong>
 - 🌱 I am currently learning: <strong>HTML, CSS, JavaScript</strong>
 - 🔎 I'm looking to collaborate on Dynamic Projects
-- 🚀 My Goals: <strong>Learn VueJs, NodeJs, React</strong>
+- 🚀 My Goals: <strong>Learn VueJs, NodeJs, AngularJs</strong>
 - 📫 Contact me by Email brunoguerracontact@gmail.com.
 
 <p>
