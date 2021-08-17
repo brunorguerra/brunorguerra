@@ -16,3 +16,5 @@
 <img src="/assets/css.svg" alt="css3" width="32px" height="32px" align="left"/>
 <img src="/assets/javascript.svg" alt="js" width="32px" height="32px" align="left"/>
 </p>
+
+<img src="/assets/coding.gif" alt="gif" width="400px" height="400px" align="center"/>
