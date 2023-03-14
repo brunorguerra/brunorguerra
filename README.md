@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/bruno-guerra-b657a0216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </br></br>
 - 💻 I am specializing in <strong>Web Development</strong>
-- 🌱 I am currently learning: <strong>ReactJS with Next, NodeJS</strong>
+- 🌱 I am currently learning: <strong>NextJS, Charts, Typescript</strong>
 - 🔎 I'm looking to collaborate on Dynamic Projects
-- 🚀 My Goals: <strong>Learn MongoDB, MySQL</strong>
+- 🚀 My Goals: <strong>Learn Ruby, Elixir</strong>
 - 📫 Contact me by Email brunoguerracontact@gmail.com.
 
 <p>
