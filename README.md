@@ -7,7 +7,7 @@
 - 💻 I am specializing in <strong>Web Development</strong>
 - 🌱 I am currently learning: <strong>NextJS, Charts, Typescript</strong>
 - 🔎 I'm looking to collaborate on Dynamic Projects
-- 🚀 My Goals: <strong>Learn Ruby, Elixir</strong>
+- 🚀 My Goals: <strong>Learn Ruby or Elixir</strong>
 - 📫 Contact me by Email brunoguerracontact@gmail.com.
 
 <p>
